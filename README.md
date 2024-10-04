@@ -1,62 +1,42 @@
-Pizza Sales SQL Repository
-Welcome to the Pizza Sales SQL repository! This repository contains a collection of SQL queries organized into three levels of complexity: Basic, Intermediate, and Advanced. These queries are executed based on data from four CSV files: order_details.csv, orders.csv, pizza_types.csv, and pizzas.csv.
+🍕 Pizza Sales SQL Repository
+Welcome to the Pizza Sales SQL Repository! This repository contains a collection of SQL queries categorized into three levels of complexity: Basic, Intermediate, and Advanced. The queries are based on data from four CSV files and are designed to help you understand and explore different SQL concepts in a structured manner.
 
-Repository Structure
-The repository is structured into three main folders:
+📂 Repository Structure
+The repository is organized into three main folders:
 
-Basic Queries:
+1. Basic Queries
+Designed to cover fundamental SQL concepts:
 
-Contains 5 problem statements designed to cover fundamental SQL concepts.
-Intermediate Queries:
+🔹 Problem 1: Retrieve the total number of orders placed.
+🔹 Problem 2: Calculate the total revenue generated from pizza sales.
+🔹 Problem 3: Identify the highest-priced pizza.
+🔹 Problem 4: Identify the most common pizza size ordered.
+🔹 Problem 5: List the top 5 most ordered pizza types along with their quantities.
+2. Intermediate Queries
+Delves deeper into SQL operations and functionalities:
 
-Contains 9 problem statements that delve deeper into SQL operations and functionalities.
-Advanced Queries:
+🔸 Problem 1: Join tables to find the total quantity of each pizza category ordered.
+🔸 Problem 2: Determine the distribution of orders by hour of the day.
+🔸 Problem 3: Find the category-wise distribution of pizzas.
+🔸 Problem 4: Group orders by date and calculate the average number of pizzas ordered per day.
+🔸 Problem 5: Determine the top 3 most ordered pizza types based on revenue.
+3. Advanced Queries
+Tackles more complex SQL challenges:
 
-Contains 3 problem statements that tackle more complex SQL challenges.
-CSV Files
-The following CSV files are used in this repository to execute the SQL queries:
+⚡ Problem 1: Calculate the percentage contribution of each pizza type to total revenue.
+⚡ Problem 2: Analyze the cumulative revenue generated over time.
+⚡ Problem 3: Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+📊 CSV Files
+The following data files are used for executing the queries:
 
 order_details.csv: Contains detailed information about each order.
-orders.csv: Contains general information about the orders.
-pizza_types.csv: Contains information about the different types of pizzas.
-pizzas.csv: Contains information about the pizzas offered.
-Folder and File Details
+orders.csv: Contains general order information.
+pizza_types.csv: Provides information on the different types of pizzas available.
+pizzas.csv: Contains data about the pizzas offered in the system.
+🚀 Getting Started
+✉️ Contact
+For any questions or feedback, feel free to reach out:
 
-Basic Queries
-Problem Statement 1: Retrieve the total number of orders placed.
+📧 Email: nikhilsingh.aiml@gmail.com
 
-Problem Statement 2: Calculate the total revenue generated from pizza sales.
- 
-Problem Statement 3: Identify the highest-priced pizza.
-
-Problem Statement 4: Identify the most common pizza size ordered.
-
-Problem Statement 5: List the top 5 most ordered pizza types along with their quantities.
-
-Intermediate Queries
-
-Problem Statement 1: Join the necessary tables to find the total quantity of each pizza category ordered.
-
-Problem Statement 2: Determine the distribution of orders by hour of the day.
-
-Problem Statement 3: Join relevant tables to find the category-wise distribution of pizzas.
-
-Problem Statement 4: Group the orders by date and calculate the average number of pizzas ordered per day.
-
-Problem Statement 5: Determine the top 3 most ordered pizza types based on revenue.
-
-
-Advanced Queries
-
-Problem Statement 1: Calculate the percentage contribution of each pizza type to total revenue.
-
-Problem Statement 2: Analyze the cumulative revenue generated over time.
-
-Problem Statement 3: Determine the top 3 most ordered pizza types based on revenue for each pizza category.
-
-
-Contact
-For any questions or feedback, please contact nikhilsingh.aiml@gmail.com
-
-Thank you for visiting the Pizza Sales SQL repository! Happy querying!
-
+Thank you for visiting the Pizza Sales SQL Repository! 🎉 Happy Querying!
