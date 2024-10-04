@@ -34,6 +34,11 @@ orders.csv: Contains general order information.
 pizza_types.csv: Provides information on the different types of pizzas available.
 pizzas.csv: Contains data about the pizzas offered in the system.
 🚀 Getting Started
+Clone the repository to explore and run the SQL queries across the three levels. Each folder contains queries and problem statements to guide you.
+
+bash
+Copy code
+git clone https://github.com/yourusername/pizza-sales-sql.git
 ✉️ Contact
 For any questions or feedback, feel free to reach out:
 
